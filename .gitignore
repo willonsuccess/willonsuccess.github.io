@@ -1,7 +1,39 @@
-# Bundler cache
-.bundle
+.DS_Store
+node_modules
+./public
+.tmp
+.idea
+.log
+dist
+docs
+npm-debug.log
+.nyc_output
+coverage
+cassettes
+yarn-error.log
+.compiled
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
 vendor
-Gemfile.lock
+yarn*
+.bundle
+!.travis.yml
+
+# hidden files
+.*
+!.git*
+!.editorconfig
+!.nojekyll
+!.travis.yml
+!.markdownlint.yaml
+
+# bundler cache
+.bundle
+_site
+vendor
 
 # Jekyll cache
 .jekyll-cache
@@ -10,12 +42,17 @@ _site
 # RubyGems
 *.gem
 
-# NPM dependencies
+# npm dependencies
 node_modules
 package-lock.json
 
+!.husky
+!.commitlintrc.json
+!.versionrc.json
+
 # IDE configurations
 .idea
+.vscode
 
 # Misc
 assets/js/dist
