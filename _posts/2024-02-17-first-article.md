@@ -5,7 +5,7 @@ categories: [Blogging]
 tag: [Blogging]
 ---
 
-https://pbs.twimg.com/media/GHGcei3XMAAX_pZ?format=jpg&name=large
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/qgIyu1AAmE">pic.twitter.com/qgIyu1AAmE</a></p>&mdash; Success • Mindset • Skillset • Toolset (@willonsuccess) <a href="https://twitter.com/willonsuccess/status/1761362797349265474?ref_src=twsrc%5Etfw">February 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Writing Blog Articles with Markdown Language
 
