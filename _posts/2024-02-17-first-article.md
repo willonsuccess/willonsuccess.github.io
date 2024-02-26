@@ -5,7 +5,7 @@ categories: [Blogging]
 tag: [Blogging]
 ---
 
-<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/qgIyu1AAmE">pic.twitter.com/qgIyu1AAmE</a></p>&mdash; Success • Mindset • Skillset • Toolset (@willonsuccess) <a href="https://twitter.com/willonsuccess/status/1761362797349265474?ref_src=twsrc%5Etfw">February 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="[https://cdn.com/path/to/flower.png](https://twitter.com/willonsuccess/status/1761362797349265474/photo/1)" alt="The flower" />
 
 # Writing Blog Articles with Markdown Language
 
