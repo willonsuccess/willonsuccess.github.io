@@ -3,7 +3,7 @@ title: "Writing Blog Articles with Markdown Language"
 date: 2024-02-17 00:00:00 +0800
 categories: [Blogging]
 tag: [Blogging]
-![Desktop View](/assets/img/sample/mockup.png){: width="700" height="400" }
+image: ![Desktop View](/assets/img/sample/mockup.png){: width="700" height="400" }
 ---
 
 
