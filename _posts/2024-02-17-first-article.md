@@ -5,7 +5,7 @@ categories: [Blogging]
 tag: [Blogging]
 ---
 
-<img src="[https://cdn.com/path/to/flower.png](https://twitter.com/willonsuccess/status/1761362797349265474/photo/1)" alt="The flower" />
+<img src="https://pbs.twimg.com/media/GHGcei3XMAAX_pZ?format=jpg&name=large" alt="The flower" />
 
 # Writing Blog Articles with Markdown Language
 
