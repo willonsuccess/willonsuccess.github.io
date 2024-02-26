@@ -3,9 +3,9 @@ title: "Writing Blog Articles with Markdown Language"
 date: 2024-02-17 00:00:00 +0800
 categories: [Blogging]
 tag: [Blogging]
-image: /![Desktop View](/assets/img/sample/mockup.png){: width="700" height="400" }
 ---
 
+<img src="https://pbs.twimg.com/media/GHGcei3XMAAX_pZ?format=jpg&name=large" alt="Speed" />
 
 # Writing Blog Articles with Markdown Language
 
