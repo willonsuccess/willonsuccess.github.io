@@ -3,6 +3,7 @@ title: "Writing Blog Articles with Markdown Language"
 date: 2024-02-17 00:00:00 +0800
 categories: [Blogging]
 tag: [Blogging]
+image: https://pbs.twimg.com/media/GHGcei3XMAAX_pZ?format=jpg&name=large
 ---
 
 <img src="https://pbs.twimg.com/media/GHGcei3XMAAX_pZ?format=jpg&name=large" alt="Speed" />
