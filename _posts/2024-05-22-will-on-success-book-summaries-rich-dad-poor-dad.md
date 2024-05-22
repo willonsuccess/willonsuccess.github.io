@@ -35,7 +35,7 @@ tags:
     money-motivation,
     financial-goals
   ]
-image: https://pbs.twimg.com/media/GLJeEEJXwAAYeM-?format=jpg&name=4096x4096
+image: https://pbs.twimg.com/media/GOMjI4SX0AQm53s?format=jpg&name=large
 alt: Rich Dad Poor Dad by Robert T. Kiyosaki.
 fallback:
   - 
