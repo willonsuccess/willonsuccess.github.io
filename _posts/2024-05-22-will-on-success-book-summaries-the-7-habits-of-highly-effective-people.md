@@ -1,14 +1,7 @@
 ---
 title: "Will On Success: The 7 Habits of Highly Effective People by Stephen R. Covey"
 description: >-
-  In "The 7 Habits of Highly Effective People," internationally acclaimed author Stephen R. Covey presents an approach to personal and professional improvement by focusing on seven proven habits that increase synergy, effectiveness, and productivity. This book is considered a must-read for anyone seeking to solve problems at the root cause, rather than just the symptoms. Incorporating these habits into your daily life will help you improve both personally and professionally, as they are universal, timeless, and easy to apply. These habits include:
-  1. Be Proactive: Take initiative in life and make things happen instead of reacting to circumstances.
-  2. Begin with the End in Mind: Imagine long-term goals and work backward to create a roadmap for success.
-  3. Put First Things First: Prioritize your most important tasks, focusing on values that truly matter.
-  4. Think Win-Win: Build mutually beneficial relationships based on empathy, integrity, and cooperation.
-  5. Seek First to Understand, Then to Be Understood: Truly listen before speaking, showing respect for others' perspectives.
-  6. Synergize: Combine the strengths of team members, allowing everyone to contribute their best.
-  7. Sharpen the Saw: Continually develop yourself physically, mentally, socially, and emotionally, ensuring personal growth. This book has transformed countless lives by providing practical tools and insights for living a more effective and fulfilling life.
+Are you looking for ways to improve your personal and professional life? Have you struggled to find balance in your daily routine? Do you want to become a more effective person, both at work and at home?
 author: Will Napolini
 date: 2024-04-09 20:55:00 +0800
 categories: [Mindset, Book-summaries]
@@ -36,7 +29,7 @@ tags:
     effective-communication,
     leadership-skills
   ]
-image: https://pbs.twimg.com/media/GIaYsnKWUAApV2U?format=jpg&name=4096x4096
+image: https://pbs.twimg.com/media/GOMjY64WwAAzv5U?format=jpg&name=large
 alt: The 7 Habits of Highly Effective People by Stephen R. Covey.
 fallback:
   -
@@ -44,12 +37,6 @@ fallback:
   -
   # Replace with the URL of your backup image
 ---
-
-_Are you looking for ways to improve your personal and professional life?_
-
-_Have you struggled to find balance in your daily routine?_
-
-_Do you want to become a more effective person, both at work and at home?_
 
 _If so, let me introduce you to "The 7 Habits of Highly Effective People" by Stephen R. Covey._
 
