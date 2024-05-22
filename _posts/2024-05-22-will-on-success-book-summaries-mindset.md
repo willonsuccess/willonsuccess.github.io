@@ -1,11 +1,19 @@
 ---
 title: "Will On Success: Mindset by Carol S. Dweck"
 description: >-
-  In "Mindset: The New Psychology of Success," renowned psychologist Carol S. Dweck introduces the concept of "mindsets" - the beliefs we hold about our abilities and potential to grow. Through extensive research and real-life examples, Dweck outlines two mindsets that significantly impact our personal and professional growth: the Fixed Mindset and the Growth Mindset.
 
-  A Fixed Mindset assumes talents and abilities are innate gifts, and individuals with this mindset often fear failure and avoid challenges to protect their self-perception. On the other hand, those with a Growth Mindset embrace challenges, view effort as the path to mastery, learn from criticism, and recover more effectively from setbacks.
+_Are you seeking to improve yourself and your relationships?_
 
-  "Mindset: The New Psychology of Success" offers practical insights and strategies for cultivating a Growth Mindset in all areas of life, providing readers with the tools they need to unlock their potential and achieve long-term success. This thought-provoking book is a must-read for anyone seeking self-improvement, personal growth, or professional development.
+_Have you ever wondered why some people thrive under pressure while others crumble?_
+
+_Do you want to understand the power of mindset in shaping our lives and achievements?_
+
+_If so, let me introduce you to "Mindset: The New Psychology of Success" by Carol S. Dweck._
+
+_In this groundbreaking book, Dr. Carol S. Dweck explores the concept of mindset and how it can shape our lives, both personally and professionally. Through her extensive research in psychology, she reveals the power of a growth mindset versus a fixed mindset and their profound impact on success._
+
+_Discover how cultivating a growth mindset can help you overcome challenges, foster resilience, and unlock your full potential._
+
 author: Will Napolini
 date: 2024-04-09 20:55:00 +0800
 categories: [Mindset, Book-summaries]
