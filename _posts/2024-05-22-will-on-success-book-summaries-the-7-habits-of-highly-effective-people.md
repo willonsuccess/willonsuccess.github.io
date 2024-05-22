@@ -1,7 +1,8 @@
 ---
 title: "Will On Success: The 7 Habits of Highly Effective People by Stephen R. Covey"
 description: >-
-Are you looking for ways to improve your personal and professional life? Have you struggled to find balance in your daily routine? Do you want to become a more effective person, both at work and at home?
+ Are you looking for ways to improve your personal and professional life? Have you struggled to find balance in your daily routine? Do 
+ you want to become a more effective person, both at work and at home?
 author: Will Napolini
 date: 2024-04-09 20:55:00 +0800
 categories: [Mindset, Book-summaries]
