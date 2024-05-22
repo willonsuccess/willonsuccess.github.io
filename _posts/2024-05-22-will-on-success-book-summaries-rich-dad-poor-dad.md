@@ -1,9 +1,9 @@
 ---
 title: "Will On Success: Rich Dad Poor Dad by Robert T. Kiyosaki"
 description: >-
-  "Rich Dad Poor Dad: What the Boldface Truth About Money and How to Make It Work for You is an enlightening personal finance classic by Robert T. Kiyosaki. This insightful book, told through a series of personal stories, contrasts the mindsets and financial practices of two dads – a 'poor dad' who represents traditional, safe, and conventional ways of building wealth, and a 'rich dad,' who embodies unconventional strategies that enable him to accumulate wealth. This engaging narrative reveals essential principles for achieving financial independence and creating wealth, including the importance of financial education, understanding the role of money in your life, investing wisely, and acquiring assets that generate passive income."
+ 
 author: Will Napolini
-date: 2024-04-09 20:55:00 +0800
+date: 2024-05-22 20:55:00 +0800
 categories: [Mindset, Book-summaries]
 tags:
   [
@@ -36,7 +36,7 @@ tags:
 image: https://pbs.twimg.com/media/GLJeEEJXwAAYeM-?format=jpg&name=4096x4096
 alt: Rich Dad Poor Dad by Robert T. Kiyosaki.
 fallback:
-  - https://sun9-64.userapi.com/impg/JamhoZXCMq_KeyqAz-kOCGuwR2r5RZfyp-n8zg/64rFKJHIjlk.jpg?size=2560x1440&quality=95&sign=ade1a089363c33e4244b278b119bef2e&type=album
+  - 
   # Replace with the URL of your backup image
   -
   # Replace with the URL of your backup image
