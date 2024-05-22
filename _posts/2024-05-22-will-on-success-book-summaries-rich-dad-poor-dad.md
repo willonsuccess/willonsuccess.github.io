@@ -1,11 +1,9 @@
 ---
 title: "Will On Success: Rich Dad Poor Dad by Robert T. Kiyosaki"
 description: >- 
-
-Are you tired of living paycheck to paycheck and feeling like you'll never achieve financial freedom? Have you ever wondered why some 
- people become wealthy while others remain stuck in the same cycle of debt and financial struggle? Do you feel like you need a guide to 
- help you navigate the complex world of personal finance?
- 
+ Are you tired of living paycheck to paycheck and feeling like you'll never achieve financial freedom? Have you ever wondered why some 
+  people become wealthy while others remain stuck in the same cycle of debt and financial struggle? Do you feel like you need a guide to 
+  help you navigate the complex world of personal finance?
 author: Will Napolini
 date: 2024-05-22 20:55:00 +0800
 categories: [Mindset, Book-summaries]
