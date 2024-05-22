@@ -1,10 +1,8 @@
 ---
 title: "Will On Success: The Four Agreements by Miguel Ruiz"
 description: >-
-  "The Four Agreements" is a transformative self-help book by bestselling author Miguel Ruiz. 
-  In this insightful guide, Ruiz shares a powerful set of principles that can help individuals break free from limiting beliefs and embrace personal freedom. 
-  The Four Agreements are simple yet profound rules that, when applied to daily life, can lead to a happier, more fulfilling existence. 
-  Discover the key to personal transformation through Ruiz's wisdom in "The Four Agreements," a must-read for anyone seeking self-improvement and spiritual growth.
+  Are you seeking a path towards personal growth and self-discovery? Have you ever felt weighed down by the expectations of others, or 
+ burdened by your own limitations? Do you desire to break free from these shackles and live a life of authenticity and freedom?
 author: Will Napolini
 date: 2024-04-09 20:55:00 +0800
 categories: [Mindset, Book-summaries]
@@ -30,7 +28,7 @@ tags:
     traditional-teachings,
     self-discipline
   ]
-image: https://pbs.twimg.com/media/GIaey2GXcAAIeNw?format=jpg&name=4096x4096
+image: https://pbs.twimg.com/media/GOMj16NXsAAU84S?format=jpg&name=large
 alt: The Four Agreements by Miguel Ruiz
 fallback:
   -
@@ -38,12 +36,6 @@ fallback:
   -
   # Replace with the URL of your backup image
 ---
-
-_Are you seeking a path towards personal growth and self-discovery?_
-
-_Have you ever felt weighed down by the expectations of others, or burdened by your own limitations?_
-
-_Do you desire to break free from these shackles and live a life of authenticity and freedom?_
 
 _If so, let me introduce you to "The Four Agreements" by Miguel Ruiz._
 
