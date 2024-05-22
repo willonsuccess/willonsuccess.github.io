@@ -1,17 +1,9 @@
 ---
 title: "Will On Success: The Power of Now by Eckhart Tolle"
 description: >-
-  "The Power of Now" by Eckhart Tolle is a transformative self-help book that delves into the concepts of mindfulness and living in the present moment. First published in 1997, this bestselling book has helped millions of readers to break free from negative thoughts and emotional pain by focusing on the present.
-
-  Tolle's approach is grounded in the idea that our lives are often plagued by unnecessary stress and suffering caused by our constant attachment to the past or future. By focusing on the present moment, we can cultivate a sense of inner peace and acceptance that allows us to live more authentic, fulfilling lives.
-
-  "The Power of Now" is divided into three main sections. The first part explores the concept of suffering and how it arises from our attachment to thoughts, emotions, and memories. Tolle encourages readers to recognize the distinction between their true self (the conscious presence) and the ego (the thought-generated self).
-
-  The second part delves into the importance of mindfulness and living in the present moment. Tolle provides practical guidance on how to become aware of our thoughts and emotions without becoming entangled in them, enabling us to experience greater inner peace and clarity.
-
-  The final part offers insights into the nature of reality, consciousness, and spiritual awakening. Tolle encourages readers to embrace the present moment as a gateway to spiritual growth and enlightenment.
-
-  "The Power of Now" is an invaluable resource for those seeking personal growth, inner peace, and a deeper understanding of the human experience. Tolle's wisdom and insightful teachings have helped countless individuals to overcome suffering and live more conscious, present-moment lives. Whether you are new to spirituality or a seasoned seeker, this book offers valuable insights and practical tools for transforming your relationship with the present moment and creating a more fulfilling life.
+ Are you searching for a deeper understanding of mindfulness and presence in your everyday life? Have you ever felt overwhelmed by the 
+ constant stressors and distractions of modern living, longing for inner peace and clarity? Do you desire to unlock the keys to personal 
+ growth and spiritual awakening?
 author: Will Napolini
 date: 2024-04-09 20:55:00 +0800
 categories: [Mindset, Book-summaries]
@@ -38,7 +30,7 @@ tags:
     living-in-the-now,
     emotional-mastery
   ]
-image: https://pbs.twimg.com/media/GId5CXmXgAEcmZj?format=jpg&name=4096x4096
+image: https://pbs.twimg.com/media/GOMkLCjXQAApToK?format=jpg&name=large
 alt: The Power of Now by Eckhart Tolle.
 fallback:
   -
@@ -46,12 +38,6 @@ fallback:
   -
   # Replace with the URL of your backup image
 ---
-
-_Are you searching for a deeper understanding of mindfulness and presence in your everyday life?_
-
-_Have you ever felt overwhelmed by the constant stressors and distractions of modern living, longing for inner peace and clarity?_
-
-_Do you desire to unlock the keys to personal growth and spiritual awakening?_
 
 _If so, let me introduce you to "The Power of Now" by Eckhart Tolle._
 
