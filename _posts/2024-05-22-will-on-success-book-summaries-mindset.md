@@ -9,7 +9,9 @@ _Do you want to understand the power of mindset in shaping our lives and achieve
 
 _If so, let me introduce you to "Mindset: The New Psychology of Success" by Carol S. Dweck._
 
-_In this groundbreaking book, Dr. Carol S. Dweck explores the concept of mindset and how it can shape our lives, both personally and professionally. Through her extensive research in psychology, she reveals the power of a growth mindset versus a fixed mindset and their profound impact on success._
+_In this groundbreaking book, Dr. Carol S. Dweck explores the concept of mindset and how it can shape our lives, both personally and 
+ professionally. Through her extensive research in psychology, she reveals the power of a growth mindset versus a fixed mindset and 
+ their profound impact on success._
 
 _Discover how cultivating a growth mindset can help you overcome challenges, foster resilience, and unlock your full potential._
 
