@@ -1,13 +1,9 @@
 ---
 title: "Will On Success: The Miracle Morning by Hal Elrod"
 description: >-
-  "The Miracle Morning: A Transformative Routine to Multiply Your Productivity, Shed Weight, and Add Joy to Your Life" is a life-changing book penned down by Hal Elrod. This book introduces you to the concept of a "Miracle Morning," a morning routine designed to boost productivity, improve health, and add joy to your daily life.
-
-  The Miracle Morning is not just another self-help gimmick. It's based on proven practices from various disciplines, including meditation, affirmations, exercise, and journaling. By following this simple yet powerful routine each morning, you'll be setting yourself up for a successful day – both personally and professionally.
-
-  Elrod shares compelling personal stories that illustrate how incorporating these habits into his own life transformed him from an exhausted overachiever to a supercharged high performer. With clear instructions and practical tips, he guides readers through implementing the Miracle Morning in their own lives, helping them overcome common obstacles and maintain consistency.
-
-  Whether you're looking to increase your productivity, lose weight, reduce stress, or simply feel more alive each day, "The Miracle Morning" is an essential read that will provide you with the tools and inspiration to create a life beyond your wildest dreams.
+ Are you searching for a way to improve your morning routine and unlock your full potential? Have you ever wished there was a simple yet 
+ powerful method to transform your life and achieve your dreams? Do you yearn for a sense of control over your days, and the ability to 
+ make the most of each new beginning?
 author: Will Napolini
 date: 2024-04-09 20:55:00 +0800
 categories: [Mindset, Book-summaries]
@@ -35,7 +31,7 @@ tags:
     self-awareness,
     personal-growth
   ]
-image: https://pbs.twimg.com/media/GId_m9qX0AADxNg?format=jpg&name=4096x4096
+image: https://pbs.twimg.com/media/GOMkCibW8AkkPXL?format=jpg&name=large
 alt: The Miracle Morning by Hal Elrod.
 fallback:
   -
@@ -43,12 +39,6 @@ fallback:
   -
   # Replace with the URL of your backup image
 ---
-
-_Are you searching for a way to improve your morning routine and unlock your full potential?_
-
-_Have you ever wished there was a simple yet powerful method to transform your life and achieve your dreams?_
-
-_Do you yearn for a sense of control over your days, and the ability to make the most of each new beginning?_
 
 _If so, let me introduce you to "The Miracle Morning" by Hal Elrod._
 
