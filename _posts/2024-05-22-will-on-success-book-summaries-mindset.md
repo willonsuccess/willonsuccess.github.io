@@ -2,22 +2,8 @@
 title: "Will On Success: Mindset by Carol S. Dweck"
 description: >-
 
- _Are you seeking to improve yourself and your relationships?_
-
- _Have you ever wondered why some people thrive under pressure while others crumble?_
-
- _Do you want to understand the power of mindset in shaping our lives and achievements?_
-
- _If so, let me introduce you to "Mindset: The New Psychology of Success" by Carol S. Dweck._
-
- _In this groundbreaking book, Dr. Carol S. Dweck explores the concept of mindset and how it can shape our lives, both personally and 
- professionally. Through her extensive research in psychology, she reveals the power of a growth mindset versus a fixed mindset and 
- their profound impact on success._
-
- _Discover how cultivating a growth mindset can help you overcome challenges, foster resilience, and unlock your full potential._
-
 author: Will Napolini
-date: 2024-04-09 20:55:00 +0800
+date: 2024-05-22 20:55:00 +0800
 categories: [Mindset, Book-summaries]
 tags:
   [
@@ -37,10 +23,10 @@ tags:
     personal-development,
     mindset-research
   ]
-image: https://pbs.twimg.com/media/GLJaovDXEAA0pEr?format=jpg&name=4096x4096
+image: https://pbs.twimg.com/media/GOMi7gDWsAAMmaU?format=jpg&name=large
 alt: Mindset by Carol S. Dweck.
 fallback:
-  - https://sun9-31.userapi.com/impg/3-sNpEeCdvK4FZreUtwePWFu3uBsJZ0WtUG1Cw/wlQFu4s1j8s.jpg?size=1280x720&quality=95&sign=6c889e1b57e1dbdadcb8c17e85c5d6f0&type=album
+  - 
   # Replace with the URL of your backup image
   -
   # Replace with the URL of your backup image
