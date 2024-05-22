@@ -1,9 +1,6 @@
 ---
 title: "Will On Success: The Four Agreements by Miguel Ruiz"
-description: >-
-
-Are you seeking a path towards personal growth and self-discovery? Have you ever felt weighed down by the expectations of others, or 
- burdened by your own limitations? Do you desire to break free from these shackles and live a life of authenticity and freedom?
+description: >- Are you seeking a path towards personal growth and self-discovery? Have you ever felt weighed down by the expectations of others, or burdened by your own limitations? Do you desire to break free from these shackles and live a life of authenticity and freedom?
 author: Will Napolini
 date: 2024-04-09 20:55:00 +0800
 categories: [Mindset, Book-summaries]
